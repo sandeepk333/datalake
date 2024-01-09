@@ -1,0 +1,9 @@
+{
+	"name": "sk-data-factory3",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba2f5586-4fc1-4467-bef8-6191445aec91",
+		"tenantId": "c9d2a0d4-f044-4153-95a6-5e252680f49f"
+	}
+}
